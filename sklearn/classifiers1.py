@@ -1,4 +1,4 @@
-#AUTHOR: Kevin (notice me senpai!)
+#AUTHOR: Kevin
 
 ## CHALLENGE - create 3 more classifiers...
 #1 Random Forest
