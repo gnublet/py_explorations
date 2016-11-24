@@ -9,6 +9,7 @@ In this examples we will use a movie review dataset.
 
 """
 # Author: Olivier Grisel <olivier.grisel@ensta.org>
+# Edited: Kevin Wong
 # License: Simplified BSD
 
 import sys
